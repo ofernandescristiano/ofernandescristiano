@@ -1,4 +1,4 @@
-#Cristiano Fernandes
+# Cristiano Fernandes
 ### Sales Analyst at Novelis
 
 - Studying Data Science
