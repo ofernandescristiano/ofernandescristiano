@@ -1,5 +1,5 @@
 # Cristiano Fernandes
-### Sales Analyst at Novelis
+### Techinical services Engineer
 
 - Studying Data Science
 - For contact:
